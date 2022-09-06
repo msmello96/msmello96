@@ -1,7 +1,7 @@
 Eai pessoal ✌️
 👨‍💻 Meu nome é Marcelo Mello, atualmente com 26 anos, trabalho em uma empresa de consultoria de infraestrutura e gosto bastante de programação!
 
-🤖 Atualmente estou estudando Python e em sequência vou começar a estudar Banco de Dados (MySQL/PostgreSQL), para futuramente, começar Django. Apesar de amar programação, não tive a oportunidade de trabalhar em uma empresa focada em desenvolvimento ainda, mas estou estudando e desenvolvendo algumas aplicações para logo menos procurar algo nesta área.
+🤖 Atualmente finalizei um curso de Python e um outro de Django, e em breve vou começar a estudar Banco de Dados (MySQL/PostgreSQL). Apesar de amar programação, não tive a oportunidade de trabalhar em uma empresa focada em desenvolvimento ainda, mas estou estudando e desenvolvendo algumas aplicações para fixação de conhecimento e melhoria na área de dev
 
 👣 Por hora, vou estudando e subindo meus projetos aqui no GitHub para ir familiarizando com a ferramenta
 
