@@ -1,9 +1,9 @@
 Eai pessoal ✌️
-👨‍💻 Meu nome é Marcelo Mello, atualmente com 27 anos, e sou apaixonado por Programação!
+👨‍💻 Meu nome é Marcelo Mello, atualmente com 28 anos, e sou apaixonado por Programação!
 
-🤖 Atualmente estou estudando Python e Django para desenvolvimento WEB, e também Banco de Dados (MySQL/PostgreSQL). Apesar de amar programação, não tive a oportunidade de trabalhar em uma empresa focada em desenvolvimento ainda, mas estou estudando e desenvolvendo algumas aplicações e projetos pessoais para fixação de conhecimento e melhoria na área de dev
+🤖 Desenvolvedor backend Python, utilizo principalmente o framework Django para desenvolver as soluções necessárias.
 
-👣 Por hora, vou estudando e subindo meus projetos aqui no GitHub para ir familiarizando com a ferramenta
+👣 Por aqui, estou sempre estudando e subindo meus projetos aqui no GitHub
 
 ✔️ Pense. Planeje. Organize. Execute.
 
