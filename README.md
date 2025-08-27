@@ -4,7 +4,7 @@ Eai pessoal ✌️
 
 🤖 Atualmente responsável por desenhar, criar e implantar monitoramento através da ferramenta Zabbix nos clientes.
 
-👣 Por aqui, estou sempre estudando, buscando aprender coisas novas e melhorar as técnicas de execução dos projetos.
+👣 Por aqui, estou sempre estudando, buscando aprender coisas novas e melhorar as técnicas para execução dos projetos.
 
 ✔️ Pense. Planeje. Organize. Execute.
 
