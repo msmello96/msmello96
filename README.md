@@ -1,9 +1,9 @@
 Eai pessoal ✌️
-👨‍💻 Meu nome é Marcelo Mello, atualmente com 28 anos, e sou apaixonado por Programação!
+👨‍💻 Meu nome é Marcelo Mello, trabalho com Infraestrutura e Monitoramento, e sou entusiasta de Programação!
 
-🤖 Desenvolvedor backend Python, utilizo principalmente o framework Django para desenvolver as soluções necessárias.
+🤖 Atualmente responsável por desenhar, criar e implantar monitoramento através da ferramenta Zabbix nos clientes.
 
-👣 Por aqui, estou sempre estudando e subindo meus projetos aqui no GitHub
+👣 Por aqui, estou sempre estudando, buscando aprender coisas novas e melhorar as técnicas de execução dos projetos.
 
 ✔️ Pense. Planeje. Organize. Execute.
 
